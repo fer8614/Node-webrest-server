@@ -1,7 +1,9 @@
 
 
+
+
+
 # Dev
 
-1. Clone .env.template and create file .env
-
-2. Excecute the command  ``` docker compose up -d```
+1. Clonar el .env.template y crear el .env
+2. Ejecutar el comando ```docker compose up -d```
