@@ -18,3 +18,4 @@ model todo {
   text        String    @db.VarChar
   completedAt DateTime? @db.Timestamp()
 }
+
